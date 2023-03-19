@@ -617,6 +617,7 @@ img {
 }
 .modal-form-wraper {
 	position: relative;
+	display: block;
 }
 
 .modal-form-icon {
