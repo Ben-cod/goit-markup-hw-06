@@ -512,7 +512,7 @@ img {
 }
 .modal {
 	padding: 24px;
-	position: relative;
+	position: absolute;
 	display: flex;
 	width: 408px;
 	height: 576px;
@@ -641,6 +641,7 @@ img {
 .modal-form-textarea:focus::placeholder {
 	color: #4d5ae5;
 }
+
 
 .police-form-input {
 	position: absolute;
